@@ -1,7 +1,7 @@
-package kz.zhelezyaka.associationuseridinsession
+package kz.zhelezyaka.associationuseridinsession;
 
-import org.springframework.boot.SpringApplication 
-import org.springframework.boot.autoconfigure.SpringBootApplication 
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class AssociationUserIDinSessionApplication {
